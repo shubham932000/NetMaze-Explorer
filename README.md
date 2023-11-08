@@ -20,11 +20,13 @@ In essence, NetMaze Explorer offers a structured and comprehensive answer to the
 
 
 <h3>Azure Technologies used</h3>
-<p>Azure Virtual Networks
-Azure VPN Gateway
-Network Security Groups (NSGs)
-Azure Bastion
-Azure Private Link
-Azure Disk Storage
-Azure Virtual Desktop
-Azure Virtual Network Manager</p>
+<ul>Azure Virtual Networks</ul>
+<ul>Azure VPN Gateway</ul>
+<ul>Network Security Groups (NSGs)</ul>
+<ul>Azure Bastion</ul>
+<ul>Azure Private Link</ul>
+<ul>Azure Disk Storage</ul>
+<ul>Azure Virtual Desktop</ul>
+<ul>Azure Virtual Network Manager</ul>
+
+<h3>YouTube Link : https://www.youtube.com/watch?v=zw-DvsqmOBE&ab_channel=ShubhamVishwakarma</h3>
