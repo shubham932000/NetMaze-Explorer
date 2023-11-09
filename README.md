@@ -30,3 +30,9 @@ In essence, NetMaze Explorer offers a structured and comprehensive answer to the
 <ul>Azure Virtual Network Manager</ul>
 
 <h3>YouTube Link : https://www.youtube.com/watch?v=zw-DvsqmOBE&ab_channel=ShubhamVishwakarma</h3>
+<br>
+<br>
+<h1>PROJECT EXECUTION STEPS:</h1>
+<h2>1. Do the setup accordingly from template.json file</h2>
+<h2>2. Install the VPN client to have access to the of the server</h2>
+<h2>3. Connect to the VPN and open browser then type 10.0.0.4 </h2>
